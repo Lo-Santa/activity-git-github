@@ -1,0 +1,8 @@
+#ignora la carpeta pycache
+__pycache__
+
+#ignora todos los archivos de txt
+*.txt
+
+#ignora todos los archivos de pdf
+*.pdf
