@@ -6,3 +6,6 @@ __pycache__
 
 #ignora todos los archivos de pdf
 *.pdf
+
+#ignora tempCodeRunnerFile
+tempCodeRunnerFile.py
